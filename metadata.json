@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Store Inventory Manager",
+  "description": "A professional inventory management system for multiple stores with automatic stock calculation and Excel import/export capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
